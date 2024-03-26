@@ -12,22 +12,22 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: collection
-    content:
-      title: Recent publications
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: publications
-    design:
-      view: card
-      columns: '1'
+  # - block: collection
+  #   content:
+  #     title: Recent publications
+  #     subtitle:
+  #     text:
+  #     count: 5
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #     offset: 0
+  #     order: desc
+  #     page_type: publications
+  #   design:
+  #     view: card
+  #     columns: '1'
 ---
