@@ -1,0 +1,5 @@
+# public repository is built by CI
+public
+resources/*
+
+.hugo_build.lock
