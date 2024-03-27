@@ -1,12 +1,11 @@
 ---
-draft: false
-title: Simulation of flexible multibody systems with frictional contact
-summary: It is the goal of this research to combine the developed event-capturing schemes and beam discretizations with esablished methods from computational multibody dynamics. These effort results in our actively developed a research code that can be used for engineering applications and for educational purposes.
+title: Variational formulations and numerical treatment of nonlinear beam theories
+summary: Nonlinear beams are the prevalent flexible components in multibody systems. It is the goal to develop variational formulations for nonlinear, i.e., geometrically exact, beams. Moreover, their numerical treatment using, e.g., isogeometric finite element discretizations is explored. With this knowledge, it is then possible to create tailor made beam formulations for applications in e.g. soft robotics or biomechanics.
 
 tags:
-  - Nonsmooth Dynamics
+  - Nonlinear Beam Theories
   - Numerical Methods
-date: '2024-03-26T00:00:00Z'
+date: '2024-03-25T00:00:00Z'
 
 # deactivate share-box at the end of project
 share: no
@@ -35,3 +34,4 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+

@@ -1,12 +1,10 @@
 ---
-draft: false
-title: Simulation of flexible multibody systems with frictional contact
-summary: It is the goal of this research to combine the developed event-capturing schemes and beam discretizations with esablished methods from computational multibody dynamics. These effort results in our actively developed a research code that can be used for engineering applications and for educational purposes.
+title: Geometric mechanics
+summary: The language of differential geometry allows a coordinate-free representation of physical theories. We aim at advancing and promoting a geometric theory based on Galilean manifolds. This theory describes classical (non relativistic) time-dependent finite-dimensional mechanical systems. 
 
 tags:
-  - Nonsmooth Dynamics
-  - Numerical Methods
-date: '2024-03-26T00:00:00Z'
+  - Geometric mechanics
+date: '2024-03-24T00:00:00Z'
 
 # deactivate share-box at the end of project
 share: no
@@ -35,3 +33,4 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
