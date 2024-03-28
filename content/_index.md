@@ -16,6 +16,7 @@ sections:
     id: projects
     content:
       title: Research
+      # text: 
       filters:
         folders:
           - project
