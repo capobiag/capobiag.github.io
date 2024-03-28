@@ -3,7 +3,7 @@ title: Variational formulations and numerical treatment of nonlinear beam theori
 summary: Nonlinear beams are the prevalent flexible components in multibody systems. It is the goal to develop variational formulations for nonlinear, i.e., geometrically exact, beams. Moreover, their numerical treatment using, e.g., isogeometric finite element discretizations is explored. With this knowledge, it is then possible to create tailor made beam formulations for applications in e.g. soft robotics or biomechanics.
 
 tags:
-  - Nonlinear Beam Theories
+  - Nonlinear Beams
   - Numerical Methods
 date: '2024-03-25T00:00:00Z'
 
@@ -35,3 +35,4 @@ image:
 # slides: example
 ---
 
+Nonlinear beams are the prevalent flexible components in multibody systems. It is the goal to develop variational formulations for nonlinear, i.e., geometrically exact, beams. Moreover, their numerical treatment using, e.g., isogeometric finite element discretizations is explored. With this knowledge, it is then possible to create tailor made beam formulations for applications in e.g. soft robotics or biomechanics.

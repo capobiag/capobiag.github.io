@@ -34,3 +34,4 @@ image:
 # slides: example
 ---
 
+The language of differential geometry allows a coordinate-free representation of physical theories. We aim at advancing and promoting a geometric theory based on Galilean manifolds. This theory describes classical (non relativistic) time-dependent finite-dimensional mechanical systems. 

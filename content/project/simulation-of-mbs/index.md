@@ -35,3 +35,4 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+It is the goal of this research to combine the developed event-capturing schemes and beam discretizations with esablished methods from computational multibody dynamics. These effort results in our actively developed a research code that can be used for engineering applications and for educational purposes.

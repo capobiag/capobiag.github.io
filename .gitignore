@@ -16,3 +16,8 @@ public/
 
 # Mac
 .DS_Store
+
+# my publications
+content/publication/my_publications
+# python environment
+myvenv

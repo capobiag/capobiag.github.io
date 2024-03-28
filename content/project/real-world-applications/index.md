@@ -36,3 +36,4 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+There is a broad range of applications for the developed analytical and numerical methods, e.g., soft robotics, walking robots, biomechanics or natural hazards research. 
