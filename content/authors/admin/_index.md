@@ -131,4 +131,6 @@ Friedrich-Alexander-Universität Erlangen-Nürnberg
 
 I am a researcher and lecturer in the field of mechanics. My research is focused on the *dynamics and control of flexible multibody systems with frictional contact*. Hereby, my interests range from the exploration of the *theoretical foundations* and the development of *general methods*,
 applicable to a large class of systems, to the design of *tailor-made solutions* for the analysis, simulation and control of specific *real-world systems*.
+
+I am an initiator and enthusiastic developer of the [cardillo](https://github.com/cardilloproject/cardillo) project. A simulation software for mechanical systems with frictional contact. 
 {style="text-align: justify;"}
