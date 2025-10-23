@@ -32,7 +32,9 @@ role: ""
 # Interests to show in About widget
 interests:
   - Nonsmooth Dynamics
+  - Numerical Methods
   - Nonlinear Beam Theories
+  - Peridynamics
   - Geometric Mechanics
   - Optimal Control and MPC
   - Robotics and Biomechanics

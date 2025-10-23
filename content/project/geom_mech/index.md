@@ -4,7 +4,7 @@ summary: The language of differential geometry allows a coordinate-free represen
 
 tags:
   - Geometric mechanics
-date: '2024-03-24T00:00:00Z'
+date: '2024-02-24T00:00:00Z'
 
 # deactivate share-box at the end of project
 share: no

@@ -1,12 +1,12 @@
 ---
 draft: false
 title: Simulation of flexible multibody systems with frictional contact
-summary: It is the goal of this research to combine the developed event-capturing schemes and beam discretizations with esablished methods from computational multibody dynamics. These effort results in our actively developed a research software [cardillo](https://github.com/cardilloproject/cardillo) that can be used for engineering applications and for educational purposes.
+summary: It is the goal of this research to combine the developed event-capturing schemes and beam discretizations with established methods from computational multibody dynamics. These effort results in our actively developed a research software [cardillo](https://github.com/cardilloproject/cardillo) that can be used for engineering applications and for educational purposes.
 
 tags:
   - Nonsmooth Dynamics
   - Numerical Methods
-date: '2024-03-26T00:00:00Z'
+date: '2025-03-26T00:00:00Z'
 
 # deactivate share-box at the end of project
 share: no

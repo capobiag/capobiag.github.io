@@ -14,47 +14,28 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2024-02-28'
+date: '2024'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-03-28T11:02:12.795376Z'
+publishDate: '2025-10-22T17:06:10+02:00'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- preprint
+- journal article
 
 # Publication name and optional abbreviated publication name.
 publication: ''
 publication_short: ''
 
-doi: ''
+doi: 10.1007/s11044-024-10038-w
 
-abstract: Multibody dynamics simulation plays an important role in various fields,
-  including mechanical engineering, robotics, and biomechanics. Setting up computational
-  models however becomes increasingly challenging as systems grow in size and complexity.
-  Especially the consistent combination of models across different physical domains
-  usually demands a lot of attention. This motivates us to study formal languages
-  for compositional modeling of multiphysical systems. This article shows how multibody
-  systems, or more precisely assemblies of rigid bodies connected by lower kinematic
-  pairs, fit into the framework of Exergetic Port-Hamiltonian Systems (EPHS). This
-  approach is based on the hierarchical decomposition of systems into their ultimately
-  primitive components, using a simple graphical syntax. Thereby, cognitive load can
-  be reduced and communication is facilitated, even with non-experts. Moreover, the
-  encapsulation and reuse of subsystems promotes efficient model development and management.
-  In contrast to established modeling languages such as Modelica, the primitive components
-  of EPHS are not defined by arbitrary equations. Instead, there are four kinds of
-  components, each defined by a particular geometric structure with a clear physical
-  interpretation. This higher-level approach could make the process of building and
-  maintaining large-scale models simpler and also safer.
+abstract: 'Multibody dynamics simulation plays an important role in various fields, including mechanical engineering, robotics, and biomechanics. Setting up computational models however becomes increasingly challenging as systems grow in size and complexity. Especially the consistent combination of models across different physical domains still requires significant effort. This motivates the study of formal languages that enable a compositional approach to modeling multiphysical systems with basic guarantees. The paper shows how multibody systems, or more precisely assemblies of rigid bodies connected by lower kinematic pairs, can be described as Exergetic Port-Hamiltonian Systems (EPHS). The EPHS modeling language features a straightforward graphical syntax for expressing the energybased interconnection of hierarchically nested subsystems. This reduces cognitive load and facilitates clearer communication among experts, nonexperts, and computational tools. Hierarchical nesting of systems enables abstraction of lower-level details and promotes the reuse of models at different levels of complexity. At the lowest level, there are three basic kinds of systems, representing energy storage and reversible/irreversible energy exchange. The structured approach guarantees fundamental properties of macroscopic systems, such as conservation of energy and nonnegative entropy production. In combination with the compositional syntax, this makes building and modifying models simpler and less error-prone.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- Electrical Engineering and Systems Science - Systems and Control
-- Mathematical Physics
-- Physics - Classical Physics
+tags: []
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -86,9 +67,9 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
-links:
-- name: URL
-  url: http://arxiv.org/abs/2402.18095
+projects: [geom_mech]
+# links:
+# - name: URL
+#   url: https://onlinelibrary.wiley.com/doi/10.1002/pamm.202100103
 ---
 
