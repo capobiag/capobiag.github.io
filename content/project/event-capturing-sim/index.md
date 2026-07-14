@@ -6,6 +6,7 @@ share: no
 tags:
   - Nonsmooth Dynamics
   - Numerical Methods
+  - Optimal Control and MPC
 date: '2024-03-26T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

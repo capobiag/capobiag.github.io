@@ -27,9 +27,9 @@ sections:
        <br>
       Mechanics of multibody systems. Recursive kinematics algorithm. Numerical methods for solving ODEs and nonlinear equations. Students write own code for simulation of multibody systems in Python.
       
-      ## Biomechanics*
+      ## Biomechanics *
       
-      *Summer 2022 - present * 
+      *Summer 2022 - present* 
        <br>
       Statics of rigid and linear elastic bodies. Nonisotropic elastic materials. Rheological models for viscoelasticity. Planar Euler--Bernoulli and Timoshenko beam theory. Introduction to the Finite Element Method.
 
@@ -85,28 +85,48 @@ sections:
   
       ## GAMM Juniors
 
-      In 2023 the GAMM elected me as a GAMM Junior. In 2024 the GAMM Junior elected me as their *deputy speaker*. <br>[GAMM Juniors](https://www.gamm-juniors.de) are young researchers and members of the GAMM, who are characterized by an excellent diploma/master and/or PhD thesis in the fields of Applied Mathematics or Mechanics.   
-      Currently, I am the deputy speaker of the GAMM Juniors.
+      I have been an elected member of the GAMM Juniors from 2023 to 2025. In 2024 the GAMM Juniors elected me as their *vice president* and in 2025 I served as their *president*. <br>[GAMM Juniors](https://www.gamm-juniors.de) are young researchers and members of the GAMM, who are characterized by an excellent diploma/master and/or PhD thesis in the fields of Applied Mathematics or Mechanics.   
+
+      ## Symposium and Conference Organization
+
+      - **Minisymposium on “Nonsmooth Dynamics”** during the [European Nonlinear Dynamics Conference](https://enoc2027.com/Programme/mini-symposia) (ENOC) in Aberdeen, 19.07-23.07.2027 
+
+      - **Section on “Nonlinear Oscillations”** during the [GAMM Annual Meeting](https://jahrestagung.gamm.org/annual-meeting-2026-2/program-2/sections-2/) in Stuttgart, 23.03-27.03.2026
+
+      - **Young Researchers’ Minisymposium on “Simulation & control of flexible multibody systems”** during
+        the [GAMM Annual Meeting](https://jahrestagung.gamm.org/annual-meeting-2026-2/program-2/young-researchers-minisymposia-2/) in Stuttgart, 23.03-27.03.2026
+
+      - **Fall Meeting of the GAMM Juniors** in Erlangen, 06.10-08.10.2025
+
+      - **Annual Symposium** of the [European Network for Nonsmooth Dynamics](https://tripop.gitlabpages.inria.fr/ennsd/twelvethsymposium.html) in Erlangen, 29.09-2.10.2025
+
+      - **Symposium for scholars of the Alexander von Humbold foundation** in Erlangen, 21.11.2024
 
       ## Review and Editorial Activity
 
-      I am member of the Editorial Board of 
+      I have been a member of the Editorial Board of 
 
       - [GAMMAS](https://www.bibliothek.tu-chemnitz.de/ojs/index.php/GAMMAS) - GAMM Archive for Students
   
 
       Furthermore, I am regularly selected as a reviewer for the following international journals
 
+      - [NODY](https://link.springer.com/journal/11071) - Nonlinear Dynamics
+
       - [ZAMM](https://onlinelibrary.wiley.com/journal/15214001) - Journal of Applied Mathematics and Mechanics
+
+      - [MBS](https://link.springer.com/journal/11044) - Multibody System Dynamics
+
+      - [JCD](https://www.aimsciences.org/jcd) - Journal of Computational Dynamics
 
       - [MEMOCS](https://msp.org/memocs/about/journal/about.html) - Mathematics and Mechanics of Complex Systems
 
-      - [NODY](https://link.springer.com/journal/11071) - Nonlinear Dynamics
-
-      - [GAMMAS](https://www.bibliothek.tu-chemnitz.de/ojs/index.php/GAMMAS) - GAMM Archive for Students
-
+      - [CMBBE](https://www.tandfonline.com/toc/gcmb20/current) - Journal of Computational Methods in Biomechanics and Biomedical Engineering
+      
       - [JCOMP](https://www.sciencedirect.com/journal/journal-of-computational-physics) - Journal of Computational Physics
-      "
+      
+      - [GAMMAS](https://www.bibliothek.tu-chemnitz.de/ojs/index.php/GAMMAS) - GAMM Archive for Students
+    "
     design:
       columns: '2'
 

@@ -4,7 +4,7 @@ summary: Peridynamics is a particle-based (mesh-free) discretization method for 
 tags:
   - Numerical Methods
   - Peridynamics
-date: '2025-03-25T00:00:00Z'
+date: '2025-03-24T00:00:00Z'
 
 # deactivate share-box at the end of project
 share: no

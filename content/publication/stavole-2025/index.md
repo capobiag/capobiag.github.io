@@ -1,23 +1,25 @@
 ---
-title: An Extended Version of the Intermediate Axis Theorem for a Freely Rotating
-  Rigid Body
+title: An augmented Lagrangian formulation of the planar elastica in constrained environments
 share: no
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Remco Leine
-- Giuseppe Capobianco
+  - Martina Stavole
+  - Rodrigo T. Sato Martìn de Almagro
+  - Giuseppe Capobianco
+  - Olivier Brüls
+  - Sigrid Leyendecker
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2021-12-01'
+date: '2024-06-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-03-28T11:02:12.791918Z'
+publishDate: '2024-06-28T11:02:12.784327Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -28,14 +30,14 @@ publication_types:
 publication: ''
 publication_short: ''
 
-doi: 10.1002/pamm.202100103
+doi: ''
 
-abstract: 'Current numerical schemes for 3D rockfall simulation are not able to correctly represent the stability properties of a freely rotating body. Here, we give a proof using Lyapunov functions of an extended intermediate axis theorem, which not only involves the angular momentum equations but also the orientation of the body. Inspired by the stability proof, we present a novel scheme which respects the stability properties of a freely rotating body and which can be incorporated in numerical schemes for the simulation of rigid bodies with frictional unilateral constraints.'
+abstract: 'More than 100 years ago, Lionel Robert Wilberforce did investigations On the Vibrations of a Loaded Spiral Spring [1]. The spring was clamped at its upper side and on the other side, perpendicular to the spring axis, a steel cylinder was attached. Four screws with adjustable nuts were symmetrically attached around the cylinder in order to change its moment of inertia (Fig. 1). In this paper the Wilberforce pendulum is modeled by a rigid body attached to a constrained spatial nonlinear Timoshenko beam, discretized with B-spline shape functions. As shown by a numerical experiment, the presented model is capable of reproducing the characteristic pendulum motion.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags: [Nonlinear Beams, Numerical Methods]
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -47,7 +49,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://easychair.org/publications/preprint/15Kd'
 url_video: ''
 
 # Custom links (uncomment lines below)
@@ -67,9 +69,9 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [rockfall]
+projects: [beams]
 # links:
 # - name: URL
-#   url: https://onlinelibrary.wiley.com/doi/10.1002/pamm.202100103
+#   url: https://onlinelibrary.wiley.com/doi/10.1002/pamm.202100110
 ---
 

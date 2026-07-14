@@ -1,23 +1,22 @@
 ---
-title: An Extended Version of the Intermediate Axis Theorem for a Freely Rotating
-  Rigid Body
+title: A Differentiable Formulation of a Set‐Valued Force Law Approximating Planar Coulomb Friction and Its use in Optimal Control Contact
 share: no
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Remco Leine
 - Giuseppe Capobianco
+- Sigrid Leyendecker
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2021-12-01'
+date: '2026-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-03-28T11:02:12.791918Z'
+publishDate: '2026-03-28T11:02:12.765341Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -28,14 +27,17 @@ publication_types:
 publication: ''
 publication_short: ''
 
-doi: 10.1002/pamm.202100103
+doi: 10.1002/pamm.70060
 
-abstract: 'Current numerical schemes for 3D rockfall simulation are not able to correctly represent the stability properties of a freely rotating body. Here, we give a proof using Lyapunov functions of an extended intermediate axis theorem, which not only involves the angular momentum equations but also the orientation of the body. Inspired by the stability proof, we present a novel scheme which respects the stability properties of a freely rotating body and which can be incorporated in numerical schemes for the simulation of rigid bodies with frictional unilateral constraints.'
+abstract: In this paper, we present a regularization of the set-valued Coulomb friction law based on a regularized projection. The regularized projection is used to formulate differentiable equations encoding a set-valued friction law that can be used in typical optimal control frameworks. The regularized friction law is compared to the popular sigmoid friction law regularization of set-valued Coulomb friction in the context of an optimal control problem for a pendulum driven via a frictional clutch. The numerical experiments show that the regularized projection-based friction law leads to a better approximation of the set-valued Coulomb friction law than the sigmoid friction law while even achieving faster convergence of the underlying optimization problem. In particular, the regularized projection-based friction law, being set-valued itself, leads to a solution of the optimal control problem that can satisfy the sticking condition of the set-valued Coulomb friction law exactly, whereas the sigmoid friction law is unable to predict sticking motions.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Nonsmooth Mechanics
+- Numerical Methods
+- Optimal Control and MPC
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -67,9 +69,9 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [rockfall]
+projects: [event-capturing-OC]
 # links:
 # - name: URL
-#   url: https://onlinelibrary.wiley.com/doi/10.1002/pamm.202100103
+#   url: https://linkinghub.elsevier.com/retrieve/pii/S0045782523006205
 ---
 

@@ -83,7 +83,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [real-world-applications]
+projects: [rockfall]
 # links:
 # - name: URL
 #   url: https://link.springer.com/10.1007/s11044-021-09792-y

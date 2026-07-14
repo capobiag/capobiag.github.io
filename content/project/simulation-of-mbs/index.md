@@ -45,4 +45,4 @@ For related publications see the publications of my research projects
 
 - [Variational formulations and numerical treatment of nonlinear beam theories]({{< ref "/project/beams" >}})
 
-- [Engineering applications]({{< ref "/project/real-world-applications" >}})
+- [Rockfall simulations]({{< ref "/project/rockfall" >}})

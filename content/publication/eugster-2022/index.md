@@ -71,7 +71,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [real-world-applications]
+projects: [soft-pneumatic-actuator]
 # links:
 # - name: URL
 #   url: https://ieeexplore.ieee.org/document/9691781/
