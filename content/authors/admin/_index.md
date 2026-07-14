@@ -131,8 +131,8 @@ highlight_name: true
 ## Akademischer Rat at [Institute of Applied Dynamics](https://www.ltd.tf.fau.de)
 Friedrich-Alexander-Universität Erlangen-Nürnberg
 
-I am a researcher and lecturer in the field of mechanics. My research is focused on the *simulation, analysis and control of nonlinear mechanical systems with discontinuities* with a special focus on *nonsmooth flexible multibody systems, i.e., multibody systems with flexible elements, that exhibit discontinuities in time caused by impacts, Coulomb friction and unilateral constraints, and discontinuities in space due to fracture or plastic deformation*. Hereby, my interests range from the exploration of the *theoretical foundations* and the development of *general methods*,
-applicable to a large class of systems, to the design of *tailor-made solutions* for the analysis, simulation and control of specific *real-world systems*.
+I am a researcher and lecturer in the field of mechanics. My research is focused on the *simulation, analysis and control of nonlinear mechanical systems with discontinuities* with a special focus on nonsmooth flexible multibody systems, i.e., multibody systems with flexible elements, that exhibit discontinuities in time caused by impacts, Coulomb friction and unilateral constraints, and discontinuities in space due to fracture or plastic deformation. Hereby, my interests range from the exploration of the theoretical foundations and the development of general methods,
+applicable to a large class of systems, to the design of tailor-made solutions for the analysis, simulation and control of specific real-world systems.
 
 I am an initiator and enthusiastic developer of the [cardillo](https://github.com/cardilloproject/cardillo) project. A simulation software for mechanical systems with frictional contact. 
 {style="text-align: justify;"}
